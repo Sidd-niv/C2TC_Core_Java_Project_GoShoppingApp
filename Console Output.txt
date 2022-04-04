@@ -1,0 +1,18 @@
+#-----------------Invoking the bookPorduct of class GSPrimeAcc ------------------#
+
+Account No: 2345
+UserName: Siddhant_2
+Charges: 345.5
+Delivery charges: 0.0
+
+
+#-----------------Invoking the bookPorduct of class GSNormalAcc ------------------#
+
+Account No: 2345
+Account Holder Name: Siddhant_2
+Delivery changers: 100.0
+Total Charges: 556.0
+
+GSPrimeAcc [toString()=ShopAcc [accNo=2345, accNm=Siddhant_2, charges=0.0], getCharges()=0.0]
+
+GSNormalAcc [toString()=NormalAcc [getCharges()=0.0getdeliveryCharges100.0, toString()=ShopAcc [accNo=2345, accNm=Siddhant_2, charges=0.0]], getCharges()=0.0]
